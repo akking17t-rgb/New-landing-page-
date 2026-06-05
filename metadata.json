@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Apex Forex Signals Landing",
+  "description": "A soft, minimal landing page directing visitors to the Apex Forex Signals Telegram channel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
